@@ -1,4 +1,5 @@
 #D160 : N合目の高さ
+
 m = int(input())
 n = int(input())
 
