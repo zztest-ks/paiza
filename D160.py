@@ -1,4 +1,4 @@
-#D160 : N合目の高さ
+#D160 : N合目の高さ（テストOKでした）
 
 m = int(input())
 n = int(input())
